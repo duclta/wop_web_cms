@@ -1,0 +1,17 @@
+* {
+  font-family: "Inter", "sans-serif";
+  box-sizing: border-box;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.avatar-uploader {
+  overflow: visible !important;
+}
+.avatar-uploader .ant-upload.ant-upload-select.ant-upload-select-picture-card {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
